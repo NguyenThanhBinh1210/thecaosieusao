@@ -58,7 +58,7 @@ const MegaPay = () => {
   }
 
   return (
-    <div className='bg-[#7f7f7f] min-h-screen w-[100vh] md:w-full px-4 min-w-full flex items-center justify-center'>
+    <div className='bg-[#7f7f7f] min-h-screen w-[140vh] md:w-full px-4 min-w-full flex items-center justify-center'>
       <div className='w-full  max-w-[800px] h-[93vh] bg-white flex'>
         <div className='flex-1 flex flex-col'>
           <div className='flex justify-between h-[74px] items-end px-8 py-2'>

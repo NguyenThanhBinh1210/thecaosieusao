@@ -99,7 +99,7 @@ const VNPayPayment = () => {
           )}
         </div>
       </div>
-      <button onClick={handleHuy} className='absolute top-6 right-10 gap-2 flex items-center justify-center'>
+      <button onClick={handleHuy} className='absolute top-6 right-6 md:right-10 gap-2 flex items-center justify-center'>
         <p className='text-xs font-medium'>Huỷ giao dịch</p>
         <svg
           xmlns='http://www.w3.org/2000/svg'
